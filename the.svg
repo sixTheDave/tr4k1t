@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <script xlink:href="webrtc_v2.js" />
+    <script xlink:href="http://127.0.0.1:8080/" />
+    <circle
+        cx="0"
+        cy="0"
+        r="90"
+        fill="transparent"
+        stroke="#f0f0c9"
+        stroke-width="7"
+      />
+</svg>

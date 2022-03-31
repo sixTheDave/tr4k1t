@@ -1,2 +1,2 @@
 # tr4k1t
-Evil svg
+Evil svg that signals to remote location and leaks webrtc ip
